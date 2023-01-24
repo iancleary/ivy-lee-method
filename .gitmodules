@@ -1,0 +1,6 @@
+[submodule "ivy-lee-frontend"]
+	path = ivy-lee-frontend
+	url = git@github.com:iancleary/ivy-lee-frontend.git
+[submodule "ivy-lee-backend"]
+	path = ivy-lee-backend
+	url = git@github.com:iancleary/ivy-lee-backend.git
